@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* -----------------header style-----------------  */
+header {
+  background: rgba(229, 84, 115, 0.1);
+  width: 1920px;
+  height: 850px;
+  display: flex;
+  justify-content: space-around;
+}
+header div {
+  margin: 200px;
+}
+header div h1 {
+  color: #272727;
+  font-family: Lato;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+header div p {
+  margin: 35px 0px;
+  color: rgba(39, 39, 39, 0.6);
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px; /* 166.667% */
+}
+
+header div button {
+  color: #fff;
+  font-family: Lato;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding: 20px 43px;
+  border: none;
+  border-radius: 8px;
+  background: #e55473;
+}
