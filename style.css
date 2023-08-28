@@ -45,3 +45,63 @@ header div button {
   border-radius: 8px;
   background: #e55473;
 }
+
+/* -------------start main section style---------- */
+
+.section-1 {
+  margin: 180px 240px;
+  text-align: center;
+}
+.info h1 {
+  color: #272727;
+  text-align: center;
+  font-family: Lato;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.info p {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px; /* 166.667% */
+  margin: 25px 0px;
+}
+
+/* ==============flower card style========= */
+
+.flower-card {
+  display: flex;
+  justify-content: space-evenly;
+}
+.card-1 {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
+}
+.card-2 {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(5, 151, 160, 0.15);
+}
+.card-3 {
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(71, 125, 17, 0.15);
+  width: 464px;
+  height: 538px;
+}
+.img-1{
+    margin-top: 109px;
+}
+.img-2{
+    margin-top: 145px;
+}
+.img-3{
+    margin-top: 68px;
+}
