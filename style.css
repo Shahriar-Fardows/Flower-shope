@@ -258,39 +258,38 @@ header div button {
   line-height: normal;
 }
 
-
 /* ------------footer style==============  */
-footer{
-    background: #111010;
-    text-align: center;
-    width: 1922px;
-height: 449px;
-padding: 128px 0px;
+footer {
+  background: #111010;
+  text-align: center;
+  width: 1922px;
+  height: 449px;
+  padding: 128px 0px;
 }
-footer h1{
-    color: #FFF;
-font-family: Lato;
-font-size: 48px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
+footer h1 {
+  color: #fff;
+  font-family: Lato;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
 }
-footer .p-2{
-    color: rgba(255, 255, 255, 0.90);
-    text-align: center;
-    font-family: Lato;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 30px; /* 166.667% */
-    margin: 24px 0 32px 0;
+footer .p-2 {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px; /* 166.667% */
+  margin: 24px 0 32px 0;
 }
-footer .p-3{
-    color: rgba(255, 255, 255, 0.40);
-text-align: center;
-font-family: Lato;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
+footer .p-3 {
+  color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
