@@ -142,42 +142,118 @@ header div button {
 }
 /* =================section-2 style============ */
 
-.section-2{
-    display: flex;
-    border-radius: 8px;
-    background: rgba(229, 84, 115, 0.05);
-    justify-content: space-evenly;
-    text-align: center;
+.section-2 {
+  display: flex;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+  justify-content: space-evenly;
+  text-align: center;
 }
 .section-2 div {
-    margin-top: 230px;
-    text-align: center;
+  margin-top: 230px;
+  text-align: center;
 }
-.section-2 div h1{
-    color: #272727;
-font-family: Lato;
-font-size: 40px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
+.section-2 div h1 {
+  color: #272727;
+  font-family: Lato;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
 }
-.section-2 div p{
-    color: rgba(39, 39, 39, 0.60);
-text-align: center;
-font-family: Lato;
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: 30px; /* 166.667% */
-    margin: 25px;
+.section-2 div p {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px; /* 166.667% */
+  margin: 25px;
 }
-.section-2 div button{
-    border: none;
-    color: #fff;
-    border-radius: 8px;
-background: #E55473;
-padding: 20px 43px;
+.section-2 div button {
+  border: none;
+  color: #fff;
+  border-radius: 8px;
+  background: #e55473;
+  padding: 20px 43px;
 }
 .section-2 img {
-    margin: 100px 0px;
+  margin: 100px 0px;
+}
+
+/* ---------------section 3 style============== */
+
+.section-3 {
+  margin: 128px 240px;
+  text-align: center;
+}
+.section-3 h1 {
+  color: #272727;
+  text-align: center;
+  font-family: Lato;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.section-3 .p-1 {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px; /* 166.667% */
+  margin: 24px 0px 48px 0px;
+}
+.section-3 img {
+  margin-right: 10px;
+}
+
+.email-store {
+  background-image: url("./Flower Asset/Rectangle 9.png");
+  margin: 128px 0px;
+  padding: 122px 247px;
+}
+.email-store h1 {
+  color: #272727;
+  text-align: center;
+  font-family: Lato;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.email-store p {
+  margin: 10px 0px 48px 0px;
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px; /* 166.667% */
+}
+.email-store input {
+  width: 700px;
+  height: 64px;
+  border-radius: 8px;
+  background: #fff;
+  padding: 22px;
+  border: none;
+}
+.email-store button {
+  border: none;
+  margin-left: 5px;
+  width: 150px;
+  height: 64px;
+  /* padding: 24px; */
+  border-radius: 8px;
+  background: #e55473;
+  color: #fff;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
