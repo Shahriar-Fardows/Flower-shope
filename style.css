@@ -7,7 +7,7 @@
 /* -----------------header style-----------------  */
 header {
   background: rgba(229, 84, 115, 0.1);
-  width: 1920px;
+  width: auto;
   height: 850px;
   display: flex;
   justify-content: space-around;
@@ -263,7 +263,7 @@ header div button {
 footer {
   background: #111010;
   text-align: center;
-  width: 1922px;
+  width: auto;
   height: 449px;
   padding: 128px 0px;
 }
