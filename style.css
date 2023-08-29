@@ -148,7 +148,7 @@ header div button {
   background: rgba(229, 84, 115, 0.05);
   justify-content: space-evenly;
   text-align: center;
-  width: 121rem;
+  width: auto;
 }
 .section-2 div {
   margin-top: 230px;
